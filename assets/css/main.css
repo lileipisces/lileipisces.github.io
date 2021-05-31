@@ -2715,18 +2715,9 @@ input, select, textarea {
 		padding: 0 2.5em;
 	}
 
-	#wrapper h1, h2 {
-		color: #fff;
-	}
-
 		@media screen and (max-width: 736px) {
 
 			#wrapper > * > .inner {
 				padding: 0 1.25em;
 			}
-
-			#wrapper h1, h2 {
-				color: #fff;
-			}
-
 		}
