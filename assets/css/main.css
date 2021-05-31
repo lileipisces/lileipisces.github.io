@@ -2008,15 +2008,27 @@ input, select, textarea {
 			text-shadow: 1px 1px 0px #fff;
 		}
 
+		.wrapper.style2 a {
+			color: inherit;
+		}
+
 		.wrapper.style3 {
 			background-color: #f4f4f4;
 			text-shadow: 1px 1px 0px #fff;
+		}
+
+		.wrapper.style3 a {
+			color: inherit;
 		}
 
 		.wrapper.style4 {
 			background-color: #303030;
 			color: #999;
 			text-shadow: -1px -1px 0px #181818;
+		}
+
+		.wrapper.style4 a {
+			color: inherit;
 		}
 
 			.wrapper.style4 h1, .wrapper.style4 h2, .wrapper.style4 h3, .wrapper.style4 h4, .wrapper.style4 h5, .wrapper.style4 h6 {
